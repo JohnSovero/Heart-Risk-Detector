@@ -1,4 +1,4 @@
-# PC3-IA
+# Heart Risk Detector
 
 # How to use
 
